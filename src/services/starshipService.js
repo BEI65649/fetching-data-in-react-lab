@@ -1,4 +1,4 @@
-const API KEY =
+// const API KEY =
 const BASE_URL = `https://swapi.info/api`;
 
 const index = async () => {
